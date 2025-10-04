@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre o Projeto
 
-Este é um projeto de API RESTful construído com **Spring Boot** para gerenciar tarefas (To-Do List), com foco na autenticação de usuários e persistência de dados. A API permite a criação de usuários e a gestão de tarefas vinculadas a esses usuários.
+Este é um projeto realizado durante um mini curso de Java da Rockeseat, onde foi realizada uma API RESTful construído com **Spring Boot** para gerenciar tarefas (To-Do List), com foco na autenticação de usuários e persistência de dados. A API permite a criação de usuários e a gestão de tarefas vinculadas a esses usuários.
 
 ### Funcionalidades Implementadas
 
@@ -15,13 +15,13 @@ Este é um projeto de API RESTful construído com **Spring Boot** para gerenciar
 
 As seguintes ferramentas e tecnologias foram usadas na construção do projeto:
 
-| **Java** | 21 (LTS) | Linguagem principal do projeto. |
-| **Spring Boot** | 3.x | Framework principal para construção da API. |
-| **Spring Data JPA** | 3.x | Facilita a interação com o banco de dados. |
-| **Hibernate** | 6.x | Implementação de JPA. |
-| **H2 Database** | Embedded | Banco de dados em memória para desenvolvimento e testes. |
-| **Lombok** | 1.18.x | Simplifica o código com anotações (Getters/Setters). |
-| **BCrypt Lib** | 0.10.x | Biblioteca para hash de senhas. |
+**Java** - Linguagem principal do projeto
+**Spring Boot** - Framework principal para construção da API
+**Spring DataJPA** - Facilita a interação com o banco de dados
+**Hibernate** - Implementação de JPA
+**H2 DataBase** - Banco de dados em memória para desenvolvimento e testes
+**Lombok** - Simplifica o código com anotações
+**BCrypt Lib** - Biblioteca para hash de senhas
 
 ---
 
