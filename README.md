@@ -15,13 +15,12 @@ Este é um projeto realizado durante um mini curso de Java da Rockeseat, onde fo
 
 As seguintes ferramentas e tecnologias foram usadas na construção do projeto:
 
-**Java** - Linguagem principal do projeto
-**Spring Boot** - Framework principal para construção da API
-**Spring DataJPA** - Facilita a interação com o banco de dados
-**Hibernate** - Implementação de JPA
-**H2 DataBase** - Banco de dados em memória para desenvolvimento e testes
-**Lombok** - Simplifica o código com anotações
-**BCrypt Lib** - Biblioteca para hash de senhas
+Java - Linguagem principal do projeto<br>
+Spring Boot - Framework principal para construção da API<br>
+Spring DataJPA - Facilita a interação com o banco de dados<br>
+Hibernate - Implementação de JPA<br>
+H2 DataBase - Banco de dados em memória para desenvolvimento e testes<br>
+Lombok - Simplifica o código com anotações<br>
+BCrypt Lib - Biblioteca para hash de senhas<br>
 
----
 
